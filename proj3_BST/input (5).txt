@@ -1,0 +1,15 @@
+N 100000 Laser Printer        11        2    
+N 101001 Computer Case        11        1    
+N 110010 16G RAM              3          2    
+N 121212 Mouse                10        3    
+N 123456 Main Board           11        5    
+N 191919 Hard Disc            12        3    
+N 212121 Power Adapter        10        3    
+N 222222 Monitor              11        5    
+N 666666 LAN Card             38        3    
+
+
+A 101001                      4              
+R 110010                      3
+P                                            
+X                                            
